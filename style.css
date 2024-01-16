@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Abril Fatface', serif;
+    color: #FF0000
+}
+
+p {
+    color: #404040;
+    font-family: 'Roboto', sans-serif;
+}
+
+#miBoton {
+    background-color: #4caf50;
+    color: #FFFF;
+}
